@@ -1,6 +1,10 @@
 *{
     margin: 0;
 }
+::selection{
+    background-color:#00b39b;
+    color: white;
+}
 nav{
     display: flex;
     justify-content: center;
